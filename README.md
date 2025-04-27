@@ -17,7 +17,8 @@ pytelegrambotapi
 requests
 
 
-![image](https://github.com/user-attachments/assets/8c99eef1-8a0e-41dc-b338-d904d72266f6)
+![437948956-8c99eef1-8a0e-41dc-b338-d904d72266f6](https://github.com/user-attachments/assets/85913acf-061f-4f9c-b110-dd0ef88260ba)
+
 
 
 
