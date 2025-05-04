@@ -5,7 +5,7 @@ from PIL import Image, ImageOps  # Install pillow instead of PIL
 import numpy as np
 
 # Замени 'TOKEN' на токен твоего бота
-bot = telebot.TeleBot("8123302303:AAEzj1K4HXG3-9ebqcbS-IkypuT7zq7WJRM")
+bot = telebot.TeleBot("")
 
 
 def guess(photo):
